@@ -4,6 +4,7 @@
 
 # Description of the corpus
 **Corpus source**: This corpus is manually collected by manually scraping the texts from webpages on software product descriptions from LinkedIn website. It contains a total of 1,395 texts in English and their manual translations into French. The translation is done by three native French speaker who are also proficient in English. 
+
 **Data distribution**: Out 1,395 text pairs, 695 are used as development and the rest 699 as test data sets, specially for tuning and testing neural machine translation (NMT) systems for English--French pair in both directions.
 
 
