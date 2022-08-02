@@ -11,12 +11,21 @@
 If you are using this corpus, please cite the following paper:
 
 @inproceedings{LoharAMTA22,
+
   author    = {Pintu Lohar and
+  
                Maja Popovic and Tanya Habruseva},
+               
   title     = {Building {M}achine {T}ranslation {S}ystem for {S}oftware
+  
 {P}roduct {D}escriptions {U}sing {D}omain-specific
+
 {S}ub-corpora {E}xtraction},
+
   booktitle = {The 15th {B}iennial {C}onference of the {A}ssociation for {M}achine {T}ranslation in the {A}mericas},
+  
   year      = {2022},
+  
    Address = {Orlando, Florida, USA}
+   
 }
